@@ -176,8 +176,8 @@ section {
         border-radius: 10px;
 
         p {
-            font-size: 30px;
-            font-weight: 200;
+            font-size: 22px;
+            font-weight: 400;
         }
 
         .fa-arrow-up-right-from-square {
@@ -280,7 +280,7 @@ footer {
         }
     }
 
-    
+
     #projects {
         ul {
             grid-template-columns: repeat(1, 1fr);
