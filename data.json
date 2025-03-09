@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Conversor",
+        "image": "./assets/bannerConversor.png",
+        "link": "https://davirrocha.github.io/conversor/",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Midnight",
+        "image": "./assets/bannerMidnight.png",
+        "link": "https://midnightclub.vercel.app/",
+        "technologies": [
+            "HTML",
+            "",
+            "JavaScript",
+            "React"
+        ]
+    },
+    {
+        "name": "PlayStation - Linha do Tempo",
+        "image": "./assets/bannerPlaystation.png",
+        "link": "https://davirrocha.github.io/playstation/",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Calculadora de Idade",
+        "image": "./assets/bannerAgeCalculator.png",
+        "link": "https://davirrocha.github.io/AgeCalculator/",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "JOKENPO",
+        "image": "./assets/bannerJokenpo.png",
+        "link": "https://davirrocha.github.io/jokenpo/",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Sorteador",
+        "image": "./assets/bannerSorteador.png",
+        "link": "https://davirrocha.github.io/sorteador/",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    }
+]

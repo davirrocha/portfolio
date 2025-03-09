@@ -1,5 +1,17 @@
-<h1>Meu portfolio. Criado utilizando HTML, CSS e JS. </h1>
-<h2><i><a href="https://davirrocha.github.io/portfolio/">LINK PARA O PORTFOLIO!!</a></i> 👈🏽 </h2>
+# Portfólio Pessoal - Davi Rocha
 
+Este é o repositório do meu portfólio online, onde apresento minhas habilidades como desenvolvedor front-end e meus projetos.
 
+## Tecnologias Utilizadas
+
+* **HTML:** Estrutura do site.
+* **CSS:** Estilização visual.
+* **JavaScript:** Interatividade e dinamismo.
+
+## Funcionalidades
+
+* **Seções:** O portfólio é dividido em seções: Início, Sobre, Projetos e Contato.
+* **Menu:** Menu de navegação para acesso rápido às seções.
+* **Projetos:** Listagem de projetos com links para visualização.
+* **Links Sociais:** Links para perfis no GitHub, LinkedIn e e-mail.
 

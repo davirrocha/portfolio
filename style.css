@@ -225,6 +225,15 @@ section {
         background-color: #FFDF00;
         width: 111px;
     }
+
+    #react {
+        background-color: #66dbfb;
+    }
+
+    #node{
+        background-color: #569B4C;
+    }
+
 }
 
 
