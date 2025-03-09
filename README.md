@@ -1,6 +1,8 @@
 # Portfólio Pessoal - Davi Rocha
+![Design da pagina](./assets/desing-page.png)
+ # **[Link do projeto](https://davirrocha.github.io/portfolio/)**
+ Este é o repositório do meu portfólio online, onde apresento minhas habilidades como desenvolvedor front-end e meus projetos.
 
-Este é o repositório do meu portfólio online, onde apresento minhas habilidades como desenvolvedor front-end e meus projetos.
 
 ## Tecnologias Utilizadas
 
